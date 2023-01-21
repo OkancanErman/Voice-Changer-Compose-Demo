@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.VoiceChangerDemo" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/deepBlue</item>
+        <item name="android:windowBackground">@color/deepBlue</item>
+        <item name="android:navigationBarColor" >@color/deepBlue</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/transparent_image</item>
+    </style>
+</resources>
